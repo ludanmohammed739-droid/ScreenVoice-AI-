@@ -1,0 +1,7 @@
+{
+  "name": "بصير الشاشة | ScreenVoice AI",
+  "description": "مساعد ذكاء اصطناعي مباشر للشاشة والكاميرا يكتشف أي سؤال يلمحه على شاشة التليفون فورياً ويجيبه بالصوت لايف.",
+  "requestFramePermissions": ["camera", "display-capture", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
